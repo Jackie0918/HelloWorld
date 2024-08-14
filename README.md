@@ -34,6 +34,18 @@
 **粗體**
 
 <hr/>
+插入圖片(滑鼠移到圖片上：無文字 vs 有文字)
+
+![當圖片無法顯示時，顯示此段文字](https://hackmd.io/favicon.png) 
+![當圖片無法顯示時，顯示此段文字](https://hackmd.io/favicon.png "滑鼠移到圖片上了")
+
+![當圖片無法顯示時，顯示此段文字](https://hackmd.io/favicon.pngaa)
+
+<hr/>
+插入Youtube影片
+
+{%youtube PJuNmlE74BQ %}
+
 
 ``` mermaid
 graph TD;
